@@ -1,0 +1,12 @@
+.App{
+  background-color: black;
+  color:white;
+}
+table{
+  border: 4px solid;
+  border-collapse: collapse;
+}
+
+td,th{
+  border: 1px solid;
+}
